@@ -1,12 +1,9 @@
-## Hi there 👋
+# Ikos Consulting
 
-<!--
+👋 Welcome to the Ikos GitHub profile.
 
-**Here are some ideas to get you started:**
+🚄 Ikos is a consulting compagny focused on the railway sector. The group also has a complementary offering in the energy sector.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🧑‍💻 In the context of its [various projects](https://www.ikosconsulting.com/nos-practices), the company can develops complex programs (as in predictive maintenance).
+
+ℹ️ If you'd like to find out more, please 📧 [contact us](mailto:contact@ikosconsulting.com) - or 😍 [join us](https://www.ikosconsulting.com/nos-offres)!
